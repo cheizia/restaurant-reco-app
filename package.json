@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "name": "p9",
   "version": "1.0.0",
   "description": "",
@@ -6,6 +7,14 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
+=======
+  "name": "restaurant-reco-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+>>>>>>> c1a3c56ba8dfe767a7585daa492ed8076f45588f
   },
   "keywords": [],
   "author": "",
